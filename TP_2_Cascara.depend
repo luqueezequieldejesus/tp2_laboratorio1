@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1493086888 source:c:\users\zequiel\desktop\trabajos practico de laboratorio\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1461846544 c:\users\zequiel\desktop\trabajos practico de laboratorio\tp_2_cascara\funciones.h
+
+1493393498 source:c:\users\zequiel\desktop\trabajos practico de laboratorio\trabajo practico n%2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493395228 c:\users\zequiel\desktop\trabajos practico de laboratorio\trabajo practico n%2\tp_2_cascara\funciones.h
+
+1493304541 source:e:\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493304786 e:\tp_2_cascara\funciones.h
+
+1493303604 source:e:\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493391944 source:c:\users\zequiel\desktop\trabajos practico de laboratorio\trabajo practico n%2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
